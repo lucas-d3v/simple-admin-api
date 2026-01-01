@@ -22,7 +22,7 @@ This project was built to demonstrate real-world backend development skills, foc
 ## 📦 Getting Started
 
 ```bash
-git clone https://github.com/USERNAME/simple-admin-api.git
+git clone https://github.com/lucas-d3v/simple-admin-api.git
 cd simple-admin-api
 docker-compose up
 ```
