@@ -10,16 +10,27 @@ This project was built to demonstrate real-world backend development skills, foc
 - Role-based access control
 - CRUD operations
 - RESTful API design
+- Dockerized environment
 
 ## 🛠 Tech Stack
 - Backend: Python (FastAPI) or Java (Spring Boot)
-- Database: Mysql
+- Database: PostgreSQL
 - Authentication: JWT
+- Containerization: Docker
 - API Style: REST + JSON
 
 ## 📦 Getting Started
 
 ```bash
-git clone https://github.com/lucas-d3v/simple-admin-api.git
+git clone https://github.com/USERNAME/simple-admin-api.git
 cd simple-admin-api
+docker-compose up
 ```
+
+## 📄 API Documentation
+
+API documentation available via Swagger UI.
+
+## 🎯 Purpose
+
+This project is part of a professional portfolio focused on backend development and API design.
